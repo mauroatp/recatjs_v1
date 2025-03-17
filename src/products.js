@@ -1,6 +1,6 @@
 export let products = [
     {
-      id: "1",
+      //id: "1",
       brand: "Fiat",
       price: 25000,
       model: "Pulse",
@@ -11,7 +11,7 @@ export let products = [
       year: "2024"
     },
     {
-      id: "2",
+      //id: "2",
       brand: "Chevrolet",
       price: 17000,
       model: "Onix",
@@ -22,7 +22,7 @@ export let products = [
       year: "2023"
     },
     {
-      id: "3",
+      //id: "3",
       brand: "Chevrolet",
       price: 30000,
       model: "Equinox",
@@ -33,7 +33,7 @@ export let products = [
       year: "2025"
     },
     {
-      id: "4",
+     // id: "4",
       brand: "Fiat",
       price: 1000,
       model: "Palio",

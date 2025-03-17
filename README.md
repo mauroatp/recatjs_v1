@@ -1,8 +1,19 @@
-# React + Vite
+# 🚗 AutoShop - E-commerce de Compra de Autos  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AutoShop es una plataforma de e-commerce diseñada para facilitar la compra de vehículos de manera rápida y segura.  
+Los usuarios pueden explorar un catálogo de autos, comparar modelos y realizar compras con una experiencia optimizada.  
 
-Currently, two official plugins are available:
+## 🔹 Características principales  
+- 📌 Listado de autos con detalles y filtros por categoria.  
+- 💳 Proceso de compra con los datos del usuario.  
+- 🛠️ Carrito de compra.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologías utilizadas  
+- ReactJS | Firebase |  
+
+## 📌 Instalación  
+```sh
+git clone hhttps://github.com/mauroatp/recatjs_v1.git  
+cd tu-proyecto  
+npm install  
+npm start 
